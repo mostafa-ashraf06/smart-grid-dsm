@@ -1,0 +1,4 @@
+case,cost_egp,peak_import_kw,par,solar_self_consumption_pct,violations,over_limit_hours,note
+Baseline,279.62,11.35,2.606,80.2,0,1,no optimisation
+GA,199.98,7.95,1.905,100.0,0,0,"evals 1190, 0.1 s"
+MA,199.98,7.95,1.905,100.0,0,0,"evals 11679, 0.4 s"

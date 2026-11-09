@@ -1,0 +1,12 @@
+SUMMARY: 11/11 checks passed in 13.7 s
+CHECK  1/11  imports/requirements                   PASS (0.4 s)
+CHECK  2/11  appliance data validity                PASS (0.0 s)
+CHECK  3/11  pricing + solar sanity                 PASS (0.0 s)
+CHECK  4/11  schedule_utils unit test               PASS (0.0 s)
+CHECK  5/11  violation always loses                 PASS (0.0 s)
+CHECK  6/11  GA beats baseline, no violations       PASS (0.1 s)
+CHECK  7/11  MA <= GA (mean over paired seeds)      PASS (2.7 s)
+CHECK  8/11  reproducibility (same seed)            PASS (1.0 s)
+CHECK  9/11  energy conservation                    PASS (0.0 s)
+CHECK 10/11  main.py end-to-end                     PASS (8.7 s)
+CHECK 11/11  parameter study artifacts              PASS (0.9 s)

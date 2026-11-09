@@ -1,0 +1,14 @@
+appliance,power_kw,duration_hours,window,interruptible,baseline_start,ga_start,ga_pause,ma_start,ma_pause
+ev_charger,7.4,5,0-9,True,0,0,0,0,0
+ev_topup,2.2,3,9-17,False,15,10,0,11,0
+water_heater,3.0,3,4-9,True,5,5,0,5,0
+washing_machine,2.0,2,20-23,False,21,22,0,22,0
+dishwasher,1.8,2,16-23,False,18,16,0,16,0
+dryer,4.6,2,16-23,False,19,22,0,22,0
+hvac,2.5,6,12-23,True,14,12,5,12,0
+vacuum_robot,0.8,2,12-23,False,16,12,0,14,0
+pool_pump,1.5,6,8-17,True,8,9,2,9,3
+iron,1.1,1,16-22,False,17,16,0,16,0
+oven,2.0,1,16-21,False,18,16,0,16,0
+rice_cooker,0.6,1,16-21,False,19,16,0,16,0
+lawn_mower,0.5,3,6-12,False,7,9,0,6,0
